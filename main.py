@@ -15,11 +15,11 @@ def web_page():
   </head>
   <body>
     <img src="esp32.jpg" alt="Mi imagen de prueba">
-    <a href="hola.txt" download="Reporte2Mayo2010">
+    <a href="hola.json" download="Datos_Gps">
       Descargar Archivo
       </a>
 
-    <p>¿como que dos servidores?</a</p>
+
   </body>
 </html>"""
   return html
